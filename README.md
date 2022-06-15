@@ -22,7 +22,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Prince-Baust&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 <br />
-
+<br />
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
@@ -59,6 +59,12 @@
 
 <br/>  
 
+
+## What I want to learn this year (2022)
+
+- [x] React
+- [ ] Redux
+- [ ] NextJS
 
 
 ## Connect with me  
