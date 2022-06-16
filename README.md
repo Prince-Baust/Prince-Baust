@@ -65,6 +65,7 @@
 - [x] React
 - [ ] Redux
 - [ ] NextJS
+- [ ] MaterialUI
 
 
 ## Connect with me  
