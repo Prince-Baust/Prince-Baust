@@ -7,7 +7,7 @@
 ## <div align="center">Hello, I'm Maruf, a full-stack Web Developer 👨‍💻 working remotely  🚀</div>  
   
 
-- 🌱 I’m currently learning GraphQl  
+- 🌱 I’m currently learning GraphQL
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
