@@ -7,7 +7,7 @@
 ## <div align="center">Hello, I'm Maruf, a full-stack Web Developer 👨‍💻 working remotely  🚀</div>  
   
 
-- 🌱 I’m currently learning NextJS  
+- 🌱 I’m currently learning GraphQl  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
@@ -65,6 +65,7 @@
 - [x] React
 - [ ] Redux
 - [ ] NextJS
+- [ ] GraphQL
 - [ ] MaterialUI
 
 
